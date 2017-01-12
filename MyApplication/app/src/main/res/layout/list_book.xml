@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
     <TableLayout
@@ -13,19 +13,81 @@
                 android:background="#e91e63"
                 android:layout_height="180dp"
                 android:layout_width="30dp">
-
+                <ImageView
+                    android:layout_gravity="center"
+                    android:src="@drawable/winter1"
+                    android:layout_marginBottom="15dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="130dp" />
+                <TextView
+                    android:text="Truly Madly Guilty"
+                    android:textColor="#01579b"
+                    android:layout_marginTop="60dp"
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:text="Liane Moriarty "
+                    android:textSize="11dp"
+                    android:textColor="#0277bd"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="75dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
             </android.support.v7.widget.CardView>
             <android.support.v7.widget.CardView
                 android:id="@+id/card_view2"
                 android:background="#e91e63"
                 android:layout_height="180dp"
                 android:layout_width="30dp">
+                <ImageView
+                    android:layout_gravity="center"
+                    android:src="@drawable/winter2"
+                    android:layout_marginBottom="15dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="130dp" />
+                <TextView
+                    android:text="Truly Madly Guilty"
+                    android:textColor="#01579b"
+                    android:layout_marginTop="60dp"
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:text="Liane Moriarty "
+                    android:textSize="11dp"
+                    android:textColor="#0277bd"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="75dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
             </android.support.v7.widget.CardView>
             <android.support.v7.widget.CardView
                 android:id="@+id/card_view3"
                 android:background="#e91e63"
                 android:layout_height="180dp"
                 android:layout_width="30dp">
+                <ImageView
+                    android:layout_gravity="center"
+                    android:src="@drawable/winter1"
+                    android:layout_marginBottom="15dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="130dp" />
+                <TextView
+                    android:text="Truly Madly Guilty"
+                    android:textColor="#01579b"
+                    android:layout_marginTop="60dp"
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:text="Liane Moriarty "
+                    android:textSize="11dp"
+                    android:textColor="#0277bd"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="75dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
             </android.support.v7.widget.CardView>
         </TableRow>
         <TableRow
@@ -35,18 +97,65 @@
                 android:background="#e91e63"
                 android:layout_height="180dp"
                 android:layout_width="30dp">
+                <ImageView
+                    android:layout_gravity="center"
+                    android:src="@drawable/winter1"
+                    android:layout_marginBottom="15dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="130dp" />
+                <TextView
+                    android:text="Truly Madly Guilty"
+                    android:textColor="#01579b"
+                    android:layout_marginTop="60dp"
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:text="Liane Moriarty "
+                    android:textSize="11dp"
+                    android:textColor="#0277bd"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="75dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
             </android.support.v7.widget.CardView>
             <android.support.v7.widget.CardView
                 android:id="@+id/card_view5"
                 android:background="#e91e63"
                 android:layout_height="180dp"
                 android:layout_width="30dp">
+                <ImageView
+                    android:layout_gravity="center"
+                    android:src="@drawable/winter1"
+                    android:layout_marginBottom="15dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="130dp" />
+                <TextView
+                    android:text="Truly Madly Guilty"
+                    android:textColor="#01579b"
+                    android:layout_marginTop="60dp"
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:text="Liane Moriarty "
+                    android:textSize="11dp"
+                    android:textColor="#0277bd"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="75dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
             </android.support.v7.widget.CardView>
             <android.support.v7.widget.CardView
                 android:id="@+id/card_view6"
                 android:background="#e91e63"
                 android:layout_height="180dp"
                 android:layout_width="30dp">
+                <ImageView
+                    android:layout_gravity="center"
+                    android:src="@drawable/winter1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
             </android.support.v7.widget.CardView>
         </TableRow>
         <TableRow
@@ -56,19 +165,118 @@
                 android:background="#e91e63"
                 android:layout_height="180dp"
                 android:layout_width="30dp">
+                <ImageView
+                    android:layout_gravity="center"
+                    android:src="@drawable/winter1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
             </android.support.v7.widget.CardView>
             <android.support.v7.widget.CardView
                 android:id="@+id/card_view8"
                 android:background="#e91e63"
                 android:layout_height="180dp"
                 android:layout_width="30dp">
+                <ImageView
+                    android:layout_gravity="center"
+                    android:src="@drawable/winter1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
             </android.support.v7.widget.CardView>
             <android.support.v7.widget.CardView
                 android:id="@+id/card_view9"
                 android:background="#e91e63"
                 android:layout_height="180dp"
                 android:layout_width="30dp">
+                <ImageView
+                    android:layout_gravity="center"
+                    android:src="@drawable/winter1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </android.support.v7.widget.CardView>
+        </TableRow>
+        <TableRow
+            android:gravity="center">
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view10"
+                android:background="#e91e63"
+                android:layout_height="180dp"
+                android:layout_width="30dp">
+                <ImageView
+                    android:layout_gravity="center"
+                    android:src="@drawable/winter1"
+                    android:layout_marginBottom="15dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="130dp" />
+                <TextView
+                    android:text="Truly Madly Guilty"
+                    android:textColor="#01579b"
+                    android:layout_marginTop="60dp"
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:text="Liane Moriarty "
+                    android:textSize="11dp"
+                    android:textColor="#0277bd"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="75dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view11"
+                android:background="#e91e63"
+                android:layout_height="180dp"
+                android:layout_width="30dp">
+                <ImageView
+                    android:layout_gravity="center"
+                    android:src="@drawable/winter1"
+                    android:layout_marginBottom="15dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="130dp" />
+                <TextView
+                    android:text="Truly Madly Guilty"
+                    android:textColor="#01579b"
+                    android:layout_marginTop="60dp"
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:text="Liane Moriarty "
+                    android:textSize="11dp"
+                    android:textColor="#0277bd"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="75dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view12"
+                android:background="#e91e63"
+                android:layout_height="180dp"
+                android:layout_width="30dp">
+                <ImageView
+                    android:layout_gravity="center"
+                    android:src="@drawable/winter1"
+                    android:layout_marginBottom="15dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="130dp" />
+                <TextView
+                    android:text="Truly Madly Guilty"
+                    android:textColor="#01579b"
+                    android:layout_marginTop="60dp"
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:text="Liane Moriarty "
+                    android:textSize="11dp"
+                    android:textColor="#0277bd"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="75dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
             </android.support.v7.widget.CardView>
         </TableRow>
     </TableLayout>
-</LinearLayout>
+</ScrollView>
