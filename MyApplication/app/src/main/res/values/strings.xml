@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name"> --- Card View --- </string>
+
+    <!-- A t there, I can change title for application to show on mobile -->
+    <string name="app_name">  </string>
+
+    <!-- At here, I have a popup menu so I can definition three action for pupop menu. -->
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+
+    <!-- At here, two another that I don't know for what ??? -->
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+
 </resources>
